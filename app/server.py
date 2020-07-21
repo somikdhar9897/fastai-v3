@@ -9,7 +9,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://drive.google.com/uc?export=download&id=1919FZH0qUsON7VzTTn96ibLMuuBn-Pq6'
+export_file_url = 'https://drive.google.com/uc?export=download&id=1-C6WzUI26ArFRBRhzgRHTSdLfMqigl7x'
 export_file_name = 'mask.pth'
 
 classes = ["Mask","No_Mask"]
